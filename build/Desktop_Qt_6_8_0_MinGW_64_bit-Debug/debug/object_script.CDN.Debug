@@ -1,0 +1,12 @@
+debug/CDN_Node.o
+debug/CDN_manager.o
+debug/MainServer.o
+debug/SkipList.o
+debug/main.o
+debug/movie.o
+debug/resultspage.o
+debug/mainwindow.o
+debug/WelcomeWindow.o
+debug/moc_WelcomeWindow.o
+debug/moc_mainwindow.o
+debug/moc_resultspage.o

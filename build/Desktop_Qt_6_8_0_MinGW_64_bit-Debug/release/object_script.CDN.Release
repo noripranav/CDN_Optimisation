@@ -1,0 +1,12 @@
+release/CDN_Node.o
+release/CDN_manager.o
+release/MainServer.o
+release/SkipList.o
+release/main.o
+release/movie.o
+release/resultspage.o
+release/mainwindow.o
+release/WelcomeWindow.o
+release/moc_WelcomeWindow.o
+release/moc_mainwindow.o
+release/moc_resultspage.o
