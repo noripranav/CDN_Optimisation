@@ -39,7 +39,7 @@ For optimal performance and stability, connect via LAN instead of WiFi when runn
 ### Installation
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/OmChandraSharma/CDN_Optimization.git
+    git clone https://github.com/noripranav/CDN_Optimization.git
     ```
 2. **Open All Project Files in Qt Creator**  
     - Launch Qt Creator and open all files within the `CDN_Optimization` folder to ensure all dependencies and components are loaded correctly.
